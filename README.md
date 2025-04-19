@@ -74,7 +74,7 @@ By increasing the amplitude of the noise source, the user can observe the progre
 
 Errors in the original and reconstructed bitstreams are can be visualized in the time domain in Figure 10:
 
-[Bitstream No errors](Images/bitstream_matching.png)  
+![Bitstream No errors](Images/bitstream_matching.png)  
 **Figure 9:** Matching bitstreams
 
 ![Bitstream errors](Images/bitstream_errors.png)  
